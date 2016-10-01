@@ -1,12 +1,12 @@
 course:
-    title: Programming 2
+    title: Programmeren 2
     short: Programmeren 2
     submit: Prog2H16F
     mail: help@mprog.nl
 
 ask:
     hands: true
-    slack: '#cs50'
+    slack: '#cs50_hispeed_hands'
 
 acknowledgements:
     - 'Based on CS50 from http://cs50.tv/2015/fall/ -- Copyright 2011--2015, David J. Malan.'

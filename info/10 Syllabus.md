@@ -1,4 +1,4 @@
-# Programmeren 2
+# Programmeren 2<br><span class="small">Studiewijzer</span>
 
 *Edition: Fall 2016*
 
