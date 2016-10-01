@@ -1,4 +1,4 @@
-# Programmeren 2<br><span class="small">Studiewijzer</span>
+# Programmeren 2<br><span class="small">Studiewijzer / Syllabus</span>
 
 *Edition: Fall 2016*
 
