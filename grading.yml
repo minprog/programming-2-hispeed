@@ -9,7 +9,7 @@ grades:
             hacker: boolean
         calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
         hide_calculated: true
-    sentiments:
+    sentimental:
         type: float
         subgrades:
             scope: integer
@@ -61,7 +61,7 @@ psets:
     drop: scope
     submits:
         mispell: 1
-        sentimens: 1
+        sentimenal: 1
         finance: 1
         mashup: 1
 
