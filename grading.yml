@@ -61,7 +61,7 @@ psets:
     drop: scope
     submits:
         mispell: 1
-        sentimenal: 1
+        sentimental: 1
         finance: 1
         mashup: 1
 
